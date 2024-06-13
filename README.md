@@ -1,1 +1,1 @@
-
+Generator liczb pseudolosowych 
